@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src
+END
+plane.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/plane.c
+END
+vec2.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/vec2.c
+END
+vec3.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/vec3.c
+END
+vec4.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/vec4.c
+END
+utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/utility.c
+END
+mat3.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/mat3.c
+END
+neon_matrix_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/neon_matrix_impl.c
+END
+aabb.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/aabb.c
+END
+mat4.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/mat4.c
+END
+quaternion.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/quaternion.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/ChangeLog
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/CMakeLists.txt
+END
+ray2.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/kazmath/src/ray2.c
+END

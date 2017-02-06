@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS
+END
+CCES2Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS/CCES2Renderer.m
+END
+CCTouchHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS/CCTouchHandler.m
+END
+CCDirectorIOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+END
+CCTouchDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+END
+CCDirectorIOS.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS/CCDirectorIOS.m
+END
+CCGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS/CCGLView.h
+END
+CCESRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS/CCESRenderer.h
+END
+CCTouchDispatcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.m
+END
+CCTouchDelegateProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+END
+CCES2Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS/CCES2Renderer.h
+END
+CCTouchHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+END
+CCGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/libs/cocos2d/Platforms/iOS/CCGLView.m
+END
