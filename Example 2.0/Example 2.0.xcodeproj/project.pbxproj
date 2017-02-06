@@ -43,7 +43,8 @@
 		712D4E081E482B5A0082AC4D /* world.png in Resources */ = {isa = PBXBuildFile; fileRef = 712D4DE71E482B5A0082AC4D /* world.png */; };
 		712D4E0A1E4830640082AC4D /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 712D4E091E4830640082AC4D /* splash.png */; };
 		712D4E0C1E4830F50082AC4D /* gameName.png in Resources */ = {isa = PBXBuildFile; fileRef = 712D4E0B1E4830F50082AC4D /* gameName.png */; };
-		712D4E0E1E4831BB0082AC4D /* Copa Banana.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712D4E0D1E4831BB0082AC4D /* Copa Banana.ttf */; };
+		712D4E0E1E4831BB0082AC4D /* CopaBanana.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712D4E0D1E4831BB0082AC4D /* CopaBanana.ttf */; };
+		712D4E101E48D5AE0082AC4D /* monkey0.png in Resources */ = {isa = PBXBuildFile; fileRef = 712D4E0F1E48D5AE0082AC4D /* monkey0.png */; };
 		8B0AA78D176A4A0500A46069 /* SatPlanet.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B0AA78C176A4A0500A46069 /* SatPlanet.m */; };
 		8B3C3876176F593F003A4C7C /* horizontalAlien.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B3C3875176F593F003A4C7C /* horizontalAlien.m */; };
 		8B3C3879176F71F6003A4C7C /* horizontalShooterAlien.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B3C3878176F71F6003A4C7C /* horizontalShooterAlien.m */; };
@@ -264,7 +265,8 @@
 		712D4DE71E482B5A0082AC4D /* world.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = world.png; path = Resources/world.png; sourceTree = "<group>"; };
 		712D4E091E4830640082AC4D /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = splash.png; path = Resources/splash.png; sourceTree = "<group>"; };
 		712D4E0B1E4830F50082AC4D /* gameName.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gameName.png; path = Resources/gameName.png; sourceTree = "<group>"; };
-		712D4E0D1E4831BB0082AC4D /* Copa Banana.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Copa Banana.ttf"; path = "Resources/Copa Banana.ttf"; sourceTree = "<group>"; };
+		712D4E0D1E4831BB0082AC4D /* CopaBanana.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = CopaBanana.ttf; path = Resources/CopaBanana.ttf; sourceTree = "<group>"; };
+		712D4E0F1E48D5AE0082AC4D /* monkey0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = monkey0.png; path = Resources/monkey0.png; sourceTree = "<group>"; };
 		8B0AA78B176A4A0500A46069 /* SatPlanet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SatPlanet.h; sourceTree = "<group>"; };
 		8B0AA78C176A4A0500A46069 /* SatPlanet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SatPlanet.m; sourceTree = "<group>"; };
 		8B2154CC1771CDE300D42678 /* galaxy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = galaxy.jpg; path = Resources/galaxy.jpg; sourceTree = "<group>"; };
@@ -788,7 +790,8 @@
 		98B52FD6159B4952005D1BA5 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				712D4E0D1E4831BB0082AC4D /* Copa Banana.ttf */,
+				712D4E0F1E48D5AE0082AC4D /* monkey0.png */,
+				712D4E0D1E4831BB0082AC4D /* CopaBanana.ttf */,
 				712D4E0B1E4830F50082AC4D /* gameName.png */,
 				712D4E091E4830640082AC4D /* splash.png */,
 				712D4DC71E482B5A0082AC4D /* ablajeck.png */,
@@ -1475,6 +1478,7 @@
 				712D4DE81E482B5A0082AC4D /* ablajeck.png in Resources */,
 				712D4E0A1E4830640082AC4D /* splash.png in Resources */,
 				712D4DE91E482B5A0082AC4D /* alien1.png in Resources */,
+				712D4E101E48D5AE0082AC4D /* monkey0.png in Resources */,
 				712D4DEA1E482B5A0082AC4D /* alien2.png in Resources */,
 				712D4DEB1E482B5A0082AC4D /* alien3.png in Resources */,
 				712D4DEC1E482B5A0082AC4D /* aliens.png in Resources */,
@@ -1504,7 +1508,7 @@
 				712D4E031E482B5A0082AC4D /* planet2.png in Resources */,
 				712D4E041E482B5A0082AC4D /* shot.png in Resources */,
 				712D4E051E482B5A0082AC4D /* spaceMonkey.png in Resources */,
-				712D4E0E1E4831BB0082AC4D /* Copa Banana.ttf in Resources */,
+				712D4E0E1E4831BB0082AC4D /* CopaBanana.ttf in Resources */,
 				712D4E061E482B5A0082AC4D /* tatooine.png in Resources */,
 				712D4E071E482B5A0082AC4D /* texture.png in Resources */,
 				712D4E081E482B5A0082AC4D /* world.png in Resources */,
