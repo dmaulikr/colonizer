@@ -121,7 +121,7 @@ typedef void (*GLLogFunction) (GLuint program,
 	return [NSString stringWithFormat:@"<%@ = %p | Program = %i, VertexShader = %i, FragmentShader = %i>", [self class], self, _program, _vertShader, _fragShader];
 }
 
-
+//http://stackoverflow.com/a/31173759/1904232
 #define _IPHONE9_0 [[[UIDevice currentDevice] systemVersion] floatValue] == 9.000
 
 #define EXTENSION_STRING "#extension GL_OES_standard_derivatives : enable"
